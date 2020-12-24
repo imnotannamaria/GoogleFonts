@@ -7,3 +7,10 @@
 <h2>Como usar nos seus projetos</h2>
 <h3>1º Passo: acesse o site do <a href="https://fonts.google.com">Google Fonts</a></h3>
 <h3>2º Passo: Escolha/procure uma fonte, assim que achar clique em cima para abrir a página da fonte.</h3>
+<h3>3º Passo: Assim que abrir a página da fonte, vai ter várias vezes a fonte em pesos(grossura do cacteres) diferentes. 
+    <br>
+    Ao lado de cada uma das opções de pessos, tem um botão escrito "Select Style".
+    <br>
+    Você pode selecionar só uma opeção de peso ou várias. Depende da sua necessidade.
+    
+</h3>
