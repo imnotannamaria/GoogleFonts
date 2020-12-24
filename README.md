@@ -19,6 +19,5 @@
 <h3>5º Passo: Assim que selecionar a/as opções de peso desejadas, vai abrir uma janela do lado direito da tela.
     <br>
     Nessa janela tem as o cógigo HTML e CSS para usar no seu projeto
-    <br>
-    <img src="https://creativecodecraft.com/wp-content/uploads/2020/04/embed-google-fonts-on-website.jpg" alt="">
 </h3>
+<img src="https://creativecodecraft.com/wp-content/uploads/2020/04/embed-google-fonts-on-website.jpg" alt="">
