@@ -19,5 +19,5 @@
 <h3>5º Passo: Assim que selecionar a/as opções de peso desejadas, vai abrir uma janela do lado direito da tela.
     <br>
     Nessa janela tem as o cógigo HTML e CSS para usar no seu projeto
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreativecodecraft.com%2Fshort-and-precise-tips%2Fhow-to-embed-and-use-google-fonts-on-a-website%2F&psig=AOvVaw22D-sXE7rBoePQWzLLnz1_&ust=1608917205029000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC2i92R5-0CFQAAAAAdAAAAABAh" alt="">
+    <img src="https://creativecodecraft.com/wp-content/uploads/2020/04/embed-google-fonts-on-website.jpg" alt="">
 </h3>
