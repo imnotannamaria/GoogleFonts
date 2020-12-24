@@ -22,3 +22,6 @@
 </h3>
 <img src="https://creativecodecraft.com/wp-content/uploads/2020/04/embed-google-fonts-on-website.jpg" alt="">
 <h1><a href="https://drive.google.com/drive/folders/1zotCLIZj1CXZvMYL9K6qeNFYLOHhaEpS">Vídeo Tutorial</a> 👈</h1>
+<br>
+<br>
+<h3>Espero ter ajudado 💕</h3>
